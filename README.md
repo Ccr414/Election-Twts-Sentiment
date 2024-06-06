@@ -6,6 +6,6 @@ transfer learning from the Roberta NLP model, and the other created by myself. B
 
 The goal of this project is to understand how accurately social media sentiment reflects the election results from the broader voter base.
 
-All data files for the project are found under the "data" folder. The "datapreprocessing" code file is for preparing the data for the model, and the "modeltraining" file is for building the models. There will later be a third file meant to visualize the results of the model, this will be the file meant to be run.
+All data files for the project are found under the "data" folder. The "SentimentDataPreProcessing" code file is for preparing the data for the model, and the "modeltraining" file is for building the models. There will later be a third file meant to visualize the results of the model, this will be the file meant to be run.
 
 This project is still a work in progress and will be updated when significant changes are made.
